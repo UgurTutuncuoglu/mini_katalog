@@ -33,11 +33,20 @@
    ```bash
    flutter pub get
    ```
+<img width="470" height="173" alt="Ekran görüntüsü 2026-05-18 085842" src="https://github.com/user-attachments/assets/e6ea744d-8e6c-44c2-b4f2-8cb1fddaa2e7" />
+
+
+
 
 5. Uygulamayı çalıştırın:
    ```bash
    flutter run
    ```
+<img width="1332" height="402" alt="Ekran görüntüsü 2026-05-18 090125" src="https://github.com/user-attachments/assets/4ed09b6e-5eb9-4940-b991-a3aeee945f9b" />
+
+
+
+
 
 📸 Ekran Görüntüleri
 -----------------
