@@ -1,16 +1,22 @@
-# mini_katalog
+## 📱 Proje Bilgileri
+- **Proje Adı:** Mini Katalog
+- **Geliştirici:** Uğur Tütüncüoğlu
+- **Test Ortamı (Emulator):** Medium Phone API 35 Android Emulator
 
-Kısa Açıklama
---------------
+---
+
+## 📄 Kısa Açıklama
 `mini_katalog`, API üzerinden ürünleri çekip listeleyen, ürün detayını gösteren, sepete ekleme ve ödeme adımlarını destekleyen basit bir Flutter katalog uygulamasıdır.
 
-Flutter Sürümü
+---
+
+## 🧰 Flutter Sürümü
 ---------------
 - Flutter Version: 3.41.9
 - Dart Version: 3.11.5
 - DevTools Version: 2.54.2
 
-Çalıştırma Adımları
+## 🚀 Çalıştırma Adımları
 -------------------
 1. Flutter SDK'nın kurulu olduğundan emin olun:
    ```bash
@@ -34,7 +40,7 @@ Flutter Sürümü
    flutter run
    ```
 
-Ekran Görüntüleri
+📸 Ekran Görüntüleri
 -----------------
 - Ana ekran
 <img width="336" height="752" alt="Ekran görüntüsü 2026-05-18 003316" src="https://github.com/user-attachments/assets/406eb5a3-19ae-4af2-937d-73122fb97167" />
