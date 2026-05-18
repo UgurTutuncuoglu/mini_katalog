@@ -11,7 +11,6 @@
 ---
 
 ## 🧰 Flutter Sürümü
----------------
 - Flutter Version: 3.41.9
 - Dart Version: 3.11.5
 - DevTools Version: 2.54.2
